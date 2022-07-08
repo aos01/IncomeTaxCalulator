@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ITC.Service\ITC.Service\ITC.Service.csproj" />
+    <ProjectReference Include="..\ITC.Service\ITC.Service.csproj" />
   </ItemGroup>
 
 </Project>
