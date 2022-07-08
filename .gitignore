@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ITC.Api/bin
+/ITC.Api/obj
+/ITC.GUI/ITC.GUI/bin
+/ITC.GUI/ITC.GUI/obj
+/ITC.Service/ITC.Service/bin
+/ITC.Service/ITC.Service/obj
+/ITC.Service.Tests/ITC.Servcie.Tests/bin
+/ITC.Service.Tests/ITC.Servcie.Tests/obj
